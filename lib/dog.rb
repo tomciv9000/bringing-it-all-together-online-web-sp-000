@@ -51,4 +51,8 @@ attr_accessor :name, :breed, :id
     new_dog
   end
   
+  def self find_by_id(id)
+    
+  end
+  
 end
