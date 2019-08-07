@@ -46,4 +46,6 @@ attr_accessor :name, :breed, :id
     dog
   end
   
+  
+  
 end
